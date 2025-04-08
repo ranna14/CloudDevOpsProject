@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 # CloudDevOpsProject
 =======
 # FinalProjectCode
-
-## Manual Steps:
 
 1. Run Unit Test.
 2. Build JAR file.
